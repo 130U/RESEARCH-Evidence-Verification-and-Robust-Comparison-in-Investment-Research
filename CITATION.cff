@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Evidence Verification and Robust Comparison in Investment Research"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "Which investment conclusions does the evidence in hand already support, and which fact is most valuable to verify next? The article, its PDF, full derivations and code that recomputes every figure."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/RESEARCH-Evidence-Verification-and-Robust-Comparison-in-Investment-Research"
+url: "https://www.theodoreoy.com/experience/evidence-verification-and-robust-comparison-in-investment-research/"
+keywords:
+  - "due diligence"
+  - "ESG"
+  - "robust optimization"
+  - "minimax regret"
+  - "Rashomon set"
+  - "SHAP"
+preferred-citation:
+  type: article
+  title: "Evidence Verification and Robust Comparison in Investment Research"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://www.theodoreoy.com/experience/evidence-verification-and-robust-comparison-in-investment-research/"
+  institution:
+    name: "Duke University"
